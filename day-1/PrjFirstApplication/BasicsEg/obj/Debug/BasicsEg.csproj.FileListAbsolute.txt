@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day-1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.pdb
