@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\obj\Debug\Additional.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\bin\Debug\Additional.exe.config
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\bin\Debug\Additional.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\bin\Debug\Additional.pdb
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\obj\Debug\Additional.exe
+C:\Users\hp\Documents\Visual Studio 2017\c# notes\day5-7oct\CSharpday5\Additional\obj\Debug\Additional.pdb
